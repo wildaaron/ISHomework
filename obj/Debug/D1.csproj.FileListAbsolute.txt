@@ -1,0 +1,9 @@
+F:\D1\D1\bin\D1.dll
+F:\D1\D1\bin\D1.pdb
+F:\D1\D1\obj\Debug\ResolveAssemblyReference.cache
+F:\D1\D1\obj\Debug\D1.dll
+F:\D1\D1\obj\Debug\D1.pdb
+E:\D1\D1\bin\D1.dll
+E:\D1\D1\bin\D1.pdb
+E:\D1\D1\obj\Debug\D1.dll
+E:\D1\D1\obj\Debug\D1.pdb
